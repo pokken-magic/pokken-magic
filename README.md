@@ -1,0 +1,3 @@
+- I'm Ryan, primarily a Python developer looking to grow my skills and contribute to the open source libraries I like.
+- I initially started this thinking I'd be contributing to some Magic: The Gathering related repos, hence the username!
+- Turns out I apparently like Django. 
